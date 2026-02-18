@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá! Seja bem-vindo ao meu perfil, eu sou o Daniel
 
-<!--
-**Danix2806/Danix2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+🎓 Estudante de Desenvolvimento de Sistemas  
+💻 Atualmente estudando HTML, CSS, Java, Python e SQL  
+📚 Em constante evolução na área de tecnologia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+</p>
+
+
+
+<div> 
+  <a href="https://www.linkedin.com/in/daniel-santos-de-carvalho-5ba06a329/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+
+  <a href="mailto:dani.daniel.santosc4@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
+
